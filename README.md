@@ -19,7 +19,12 @@ This system consists of 4 main components as below:
 
 You can follow each document for install and deploy project:
 
-- [Smart contracts](docs/contract.md)
-- [Frontend](docs/frontend.md)
-- [BTFS](docs/btfs.md)
-- [Server tracker](docs/tracker.md)
+# Install
+- Run [BTFS](docs/btfs.md)
+- Compile and deploy smart contract [smart contracts](docs/contract.md#install) and get address json file (smart contract addresses) and abis.
+- Use address json file and abis to run [server tracker](docs/tracker.md)
+- Use address json file and abis to [Frontend](docs/frontend.md)
+
+# References
+
+This is details of all repository
