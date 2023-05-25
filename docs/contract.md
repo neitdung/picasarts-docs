@@ -31,24 +31,32 @@ Those also use same a NFT standard contract called PNFT extend from ERC-721, ERC
 ### Marketplace
 
 - Use cases:
+
 ![Market use cases](../imgs/market-uc.png)
 - Flow:
+
 ![Market flow](../imgs/market-fl.png)
 
 ### Loan
 
 - Use cases:
+
 ![Loan use cases](../imgs/loan-uc.png)
 - Flow:
+
 ![Loan flow](../imgs/loan-fl.png)
 - Explain status after each action:
+
 ![Loan explain](../imgs/loan-expl.png)
 
 ### Rental
 
 - Use cases:
+
 ![Rental use cases](../imgs/rent-uc.png)
 - Flow:
+
 ![Rental flow](../imgs/rent-fl.png)
 - Calculate amount can withdraw:
+
 ![Rental explain](../imgs/rent-expl.png)
